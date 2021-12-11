@@ -1,2 +1,3 @@
-#Project: App for ordering burgers
-App can be found at: https://owethusotomela.github.io/order-burger-app/
+#Project: Order burgers online App
+[App can be found at] (https://owethusotomela.github.io/order-burger-app/)
+
